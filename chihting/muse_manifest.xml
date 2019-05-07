@@ -1,0 +1,57 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chihtingwang.com" resolutions="1x" timestamp="1557234171872">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-__.css" crc="214030108" ref="index"/>
+    <file name="index.css" crc="4009217664" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="474374037" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="貼上的-svg-331671x46.svg" crc="4144182748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 331671x46_poster_.png" crc="312668502" ref="index"/>
+    <file name="111.png" crc="115242243" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="3880976128" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="第一張-01.jpg" crc="454000046" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="片頭-01.jpg" crc="396030796" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="新聞畫面-01.png" crc="191485169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="遊戲-01.png" crc="4159930115" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="遊戲2-01.png" crc="51565936" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="飄來飄去-01.png" crc="131452095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="貼上的-svg-272352x23.svg" crc="70915756" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的 svg 272352x23_poster_.png" crc="3930503283" ref="index"/>
+  </folder>
+  <file name="index.html" crc="325024618" seo="true" mt="1557233944719" redirect="true"/>
+</manifest>
